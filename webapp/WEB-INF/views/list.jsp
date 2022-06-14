@@ -34,6 +34,7 @@
 		</tr>	
 	</table>
 	</c:forEach>
-
+	<br><br>
+<a href="/phonebook3/guest/writeForm">전화번호등록</a>
 </body>
 </html>
